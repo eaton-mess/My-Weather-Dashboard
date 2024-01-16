@@ -1,0 +1,10 @@
+.input-group {
+ margin: 10px;   
+}
+
+#today {
+    border: grey 1px solid;
+    border-radius: 5px;
+    text-align: center;
+}
+
