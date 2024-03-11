@@ -25,7 +25,7 @@ Local.storage will enable the user to save their most recently searched cities o
 ## Author
 
 Lauren Eaton
-https://github.com/eatontechnology
+https://github.com/eaton-mess
 
 ## License
 
